@@ -1,0 +1,13 @@
+.main-nav {
+  padding-left: 40px;
+  min-height: 62px;
+  background-color: #1890ff;
+}
+
+.nav-logo-text {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  color: #ffffff;
+}
